@@ -41,13 +41,13 @@ const config = {
 		docs: {
 		  sidebarPath: require.resolve('./sidebars.js'),
 		  // Please change this to your repo.
-		  editUrl: 'https://github.com/alishir/ayat/',
+		  editUrl: 'https://github.com/alishir/ayat/edit/main/',
 		},
 		blog: {
 		  showReadingTime: true,
 		  // Please change this to your repo.
 		  editUrl:
-		  'https://github.com/alishir/ayat/',
+		  'https://github.com/alishir/ayat/edit/main/',
 		},
 		theme: {
 		  customCss: require.resolve('./src/css/custom.css'),
