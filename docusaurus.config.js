@@ -9,7 +9,7 @@ const config = {
   title: 'آیات الولایة',
   tagline: 'در فضائل امیرالمومنین علی علیه السلام',
   url: 'https://alishir.github.io/',
-  baseUrl: '/',
+  baseUrl: '/ayat/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
